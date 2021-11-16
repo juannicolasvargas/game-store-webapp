@@ -2,7 +2,6 @@ nav {
 	background: #242526;
 	height: 80px;
 	display: flex;
-	/*justify-content: space-around;*/
 	padding: 0.5rem calc((100vw - 1000px) / 2);
 	z-index: 10;
 }
@@ -43,4 +42,8 @@ li {
 	max-width: 300px;
 	min-width: 150px;
 	width: 28vw;
+}
+
+a:hover {
+	color: #59D0EA; 
 }

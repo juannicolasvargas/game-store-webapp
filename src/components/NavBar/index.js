@@ -9,7 +9,7 @@ const NavBar = () => {
         <Link className='link' to='/'>Biblioteca</Link>
       </li>
       <li>
-        <Link className='link' to='/'>Tienda</Link>
+        <Link className='link' to='/stores'>Tienda</Link>
       </li>
       <li className='liText'>
         <input className = 'searchInput'
